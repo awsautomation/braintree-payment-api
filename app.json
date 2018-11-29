@@ -1,10 +1,9 @@
 {
   "name": "Braintree PaymentGatway API for Card",
   "description": "BrainTree PayementAPI for card.",
-  "keywords": ["braintree", "java", "spring", "HTML5"],
+  "keywords": ["braintree", "java", "spring"],
   "website": "https://www.braintreepayments.com",
   "repository": "https://github.com/farhancloning/BrainTreeCardPaymentAPI",
-  "logo": "https://avatars1.githubusercontent.com/u/3453",
   "success_url": "/",
   "env": {
     "BT_ENVIRONMENT": {
