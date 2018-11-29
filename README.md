@@ -1,8 +1,6 @@
 # Spring Payment GateWay API using Braintree SandBox.
 
-[![Build Status](https://travis-ci.org/braintree/braintree_spring_example.svg?branch=master)](https://travis-ci.org/braintree/braintree_spring_example)
-
-Braintree integration for Spring (Java).
+Braintree integration for SpringBoot (Java).
 
 ## Setup Instructions
 
