@@ -2,7 +2,6 @@ package springexample;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
-
 import com.braintreegateway.BraintreeGateway;
 import com.braintreegateway.Result;
 import com.braintreegateway.Transaction;
@@ -11,7 +10,6 @@ import com.braintreegateway.TransactionRequest;
 import com.braintreegateway.CreditCard;
 import com.braintreegateway.Customer;
 import com.braintreegateway.ValidationError;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
