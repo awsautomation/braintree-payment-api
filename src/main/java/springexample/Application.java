@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
     public static String DEFAULT_CONFIG_FILENAME = "config.properties";
     public static BraintreeGateway gateway;
+    // public static BraintreeGateway gateway;
 
     public static void main(String[] args) {
         File configFile = new File(DEFAULT_CONFIG_FILENAME);
