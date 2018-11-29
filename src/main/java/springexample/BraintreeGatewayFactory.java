@@ -1,7 +1,6 @@
 package springexample;
 
 import com.braintreegateway.BraintreeGateway;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
