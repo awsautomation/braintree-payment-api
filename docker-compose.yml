@@ -6,4 +6,4 @@ services:
     ports:
       - "4567:4567"
     volumes:
-      - .:/braintree_spring_example
+      - .:/BrainTreeCardPaymentAPI
