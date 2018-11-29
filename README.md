@@ -27,7 +27,8 @@ Braintree integration for Spring (Java).
 You can deploy this app directly to Heroku to see the app live. Skip the setup instructions above and click the button below. This will walk you through getting this app up and running on Heroku in minutes.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
-template="repository":https://github.com/braintree/braintree_spring_example&env[BT_ENVIRONMENT]=sandbox)
+template=https://github.com/braintree/braintree_spring_example&amp;env[BT_ENVIRONMENT]=sandbox)
+
 
 ## Running tests
 
